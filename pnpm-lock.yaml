@@ -39,8 +39,8 @@ dependencies:
     specifier: ^1.1.0
     version: 1.1.0
   astro-navbar:
-    specifier: ^2.3.2
-    version: 2.3.2
+    specifier: ^2.4.0
+    version: 2.4.0
   astro-seo:
     specifier: ^0.8.3
     version: 0.8.3(typescript@5.4.5)
@@ -1742,8 +1742,8 @@ packages:
       - supports-color
     dev: false
 
-  /astro-navbar@2.3.2:
-    resolution: {integrity: sha512-cb+mYvtlCHMJbJpLsyE6lyNxLWHUqfKaOTBCSHe+xHDYGFquV8cubF/78TzHLlrNJZY3/ofCyPpr8KCLuR7ogg==}
+  /astro-navbar@2.4.0:
+    resolution: {integrity: sha512-UhQnU8lz3a0NKL5gTBXFwYg1CVzP/DNlw1z6qW7f9Q1j33oMHdjwX/TmC2/xkJTKeq4a2RxgaqeJ+6CxCxRELg==}
     dev: false
 
   /astro-seo@0.8.3(typescript@5.4.5):
